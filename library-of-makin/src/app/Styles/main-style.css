@@ -1,5 +1,12 @@
+:root {
+  --light-green: #c6d4c4;
+  --dark-green: #35382e;
+  --brown: #b9afa6;
+  --purple: #a38ca5;
+}
+
 h1 {
   font-size: 2rem;
   font-weight: bold;
-  color: #a38ca5;
+  color: var(--dark-green);
 }
